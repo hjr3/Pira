@@ -1,5 +1,8 @@
 <?php
 
+/*
+ * @author Herman J. Radtke III
+ */
 class Pira
 {
     protected $auth;
